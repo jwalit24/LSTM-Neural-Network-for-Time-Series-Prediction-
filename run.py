@@ -1,7 +1,7 @@
-__author__ = "Jakob Aungiers"
-__copyright__ = "Jakob Aungiers 2018"
+__author__ = "Jwalit"
+__copyright__ = "Jwalit Devalia 2018"
 __version__ = "2.0.0"
-__license__ = "MIT"
+__license__ = "IIT"
 
 import os
 import json
